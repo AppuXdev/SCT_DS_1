@@ -12,7 +12,7 @@ This task involves analyzing and visualizing population data using Excel. The da
 - *Histogram*: Displays frequency distribution  
   ![Histogram](images/task1_chart2.png)
 - *Line Chart*: Illustrates population growth over time  
-  ![Line Chart](images/task1.chart3.png)
+  ![Line Chart](images/task1_chart3.png)
 These visualizations help interpret long-term demographic trends and support data-driven insights.
 
 
